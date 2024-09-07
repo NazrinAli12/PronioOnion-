@@ -1,0 +1,13 @@
+D:\ProniaOnionTest\src\Core\ProniaOnionTest.Domain\bin\Debug\net6.0\ProniaOnionTest.Domain.deps.json
+D:\ProniaOnionTest\src\Core\ProniaOnionTest.Domain\bin\Debug\net6.0\ProniaOnionTest.Domain.dll
+D:\ProniaOnionTest\src\Core\ProniaOnionTest.Domain\bin\Debug\net6.0\ProniaOnionTest.Domain.pdb
+D:\ProniaOnionTest\src\Core\ProniaOnionTest.Domain\obj\Debug\net6.0\ProniaOnionTest.Domain.csproj.AssemblyReference.cache
+D:\ProniaOnionTest\src\Core\ProniaOnionTest.Domain\obj\Debug\net6.0\ProniaOnionTest.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProniaOnionTest\src\Core\ProniaOnionTest.Domain\obj\Debug\net6.0\ProniaOnionTest.Domain.AssemblyInfoInputs.cache
+D:\ProniaOnionTest\src\Core\ProniaOnionTest.Domain\obj\Debug\net6.0\ProniaOnionTest.Domain.AssemblyInfo.cs
+D:\ProniaOnionTest\src\Core\ProniaOnionTest.Domain\obj\Debug\net6.0\ProniaOnionTest.Domain.csproj.CoreCompileInputs.cache
+D:\ProniaOnionTest\src\Core\ProniaOnionTest.Domain\obj\Debug\net6.0\ProniaOnionTest.Domain.sourcelink.json
+D:\ProniaOnionTest\src\Core\ProniaOnionTest.Domain\obj\Debug\net6.0\ProniaOnionTest.Domain.dll
+D:\ProniaOnionTest\src\Core\ProniaOnionTest.Domain\obj\Debug\net6.0\refint\ProniaOnionTest.Domain.dll
+D:\ProniaOnionTest\src\Core\ProniaOnionTest.Domain\obj\Debug\net6.0\ProniaOnionTest.Domain.pdb
+D:\ProniaOnionTest\src\Core\ProniaOnionTest.Domain\obj\Debug\net6.0\ref\ProniaOnionTest.Domain.dll

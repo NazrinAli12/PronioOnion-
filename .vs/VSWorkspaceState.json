@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.github",
+    "\\src",
+    "\\src\\Infrastructure",
+    "\\src\\Infrastructure\\ProniaOnionTest.Persistence",
+    "\\src\\Infrastructure\\ProniaOnionTest.Persistence\\Common",
+    "\\src\\Infrastructure\\ProniaOnionTest.Persistence\\Contexts"
+  ],
+  "SelectedNode": "\\ProniaOnionTest.sln",
+  "PreviewInSolutionExplorer": false
+}
